@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUIA7</string>
+    <string name="titulo">Bienvenidos!</string>
+    <string name="juego">Juego</string>
+    <string name="puntajeAlto">Puntajes Usuarios</string>
+    <string name="confi">Configuraciones</string>
+    <string name="d">Datos</string>
+    <string name="r">Respuesta</string>
+</resources>
